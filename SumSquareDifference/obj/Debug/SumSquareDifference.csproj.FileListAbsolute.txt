@@ -1,0 +1,6 @@
+C:\Users\a.stanevich\source\repos\projEyler\SumSquareDifference\bin\Debug\SumSquareDifference.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\SumSquareDifference\bin\Debug\SumSquareDifference.exe
+C:\Users\a.stanevich\source\repos\projEyler\SumSquareDifference\bin\Debug\SumSquareDifference.pdb
+C:\Users\a.stanevich\source\repos\projEyler\SumSquareDifference\obj\Debug\SumSquareDifference.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\SumSquareDifference\obj\Debug\SumSquareDifference.exe
+C:\Users\a.stanevich\source\repos\projEyler\SumSquareDifference\obj\Debug\SumSquareDifference.pdb

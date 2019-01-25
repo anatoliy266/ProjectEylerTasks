@@ -1,0 +1,6 @@
+C:\Users\a.stanevich\source\repos\projEyler\MultipliesOf3and5\bin\Debug\MultipliesOf3and5.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\MultipliesOf3and5\bin\Debug\MultipliesOf3and5.exe
+C:\Users\a.stanevich\source\repos\projEyler\MultipliesOf3and5\bin\Debug\MultipliesOf3and5.pdb
+C:\Users\a.stanevich\source\repos\projEyler\MultipliesOf3and5\obj\Debug\MultipliesOf3and5.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\MultipliesOf3and5\obj\Debug\MultipliesOf3and5.exe
+C:\Users\a.stanevich\source\repos\projEyler\MultipliesOf3and5\obj\Debug\MultipliesOf3and5.pdb

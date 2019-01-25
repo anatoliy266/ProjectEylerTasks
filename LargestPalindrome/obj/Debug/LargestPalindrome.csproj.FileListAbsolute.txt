@@ -1,0 +1,7 @@
+C:\Users\a.stanevich\source\repos\projEyler\LargestPalindrome\bin\Debug\LargestPalindrome.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\LargestPalindrome\bin\Debug\LargestPalindrome.exe
+C:\Users\a.stanevich\source\repos\projEyler\LargestPalindrome\bin\Debug\LargestPalindrome.pdb
+C:\Users\a.stanevich\source\repos\projEyler\LargestPalindrome\obj\Debug\LargestPalindrome.csprojAssemblyReference.cache
+C:\Users\a.stanevich\source\repos\projEyler\LargestPalindrome\obj\Debug\LargestPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\LargestPalindrome\obj\Debug\LargestPalindrome.exe
+C:\Users\a.stanevich\source\repos\projEyler\LargestPalindrome\obj\Debug\LargestPalindrome.pdb

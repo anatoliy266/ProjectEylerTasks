@@ -1,0 +1,7 @@
+C:\Users\a.stanevich\source\repos\projEyler\evenValuedFibbonachiSum\bin\Debug\evenValuedFibbonachiSum.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\evenValuedFibbonachiSum\bin\Debug\evenValuedFibbonachiSum.exe
+C:\Users\a.stanevich\source\repos\projEyler\evenValuedFibbonachiSum\bin\Debug\evenValuedFibbonachiSum.pdb
+C:\Users\a.stanevich\source\repos\projEyler\evenValuedFibbonachiSum\obj\Debug\evenValuedFibbonachiSum.csprojAssemblyReference.cache
+C:\Users\a.stanevich\source\repos\projEyler\evenValuedFibbonachiSum\obj\Debug\evenValuedFibbonachiSum.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\evenValuedFibbonachiSum\obj\Debug\evenValuedFibbonachiSum.exe
+C:\Users\a.stanevich\source\repos\projEyler\evenValuedFibbonachiSum\obj\Debug\evenValuedFibbonachiSum.pdb

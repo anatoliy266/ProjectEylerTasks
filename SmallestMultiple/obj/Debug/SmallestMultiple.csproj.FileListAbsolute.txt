@@ -1,0 +1,6 @@
+C:\Users\a.stanevich\source\repos\projEyler\SmallestMultiple\bin\Debug\SmallestMultiple.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\SmallestMultiple\bin\Debug\SmallestMultiple.exe
+C:\Users\a.stanevich\source\repos\projEyler\SmallestMultiple\bin\Debug\SmallestMultiple.pdb
+C:\Users\a.stanevich\source\repos\projEyler\SmallestMultiple\obj\Debug\SmallestMultiple.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\SmallestMultiple\obj\Debug\SmallestMultiple.exe
+C:\Users\a.stanevich\source\repos\projEyler\SmallestMultiple\obj\Debug\SmallestMultiple.pdb

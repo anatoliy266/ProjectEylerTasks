@@ -1,0 +1,7 @@
+C:\Users\a.stanevich\source\repos\projEyler\projEyler\bin\Debug\projEyler.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\projEyler\bin\Debug\projEyler.exe
+C:\Users\a.stanevich\source\repos\projEyler\projEyler\bin\Debug\projEyler.pdb
+C:\Users\a.stanevich\source\repos\projEyler\projEyler\obj\Debug\projEyler.csprojAssemblyReference.cache
+C:\Users\a.stanevich\source\repos\projEyler\projEyler\obj\Debug\projEyler.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\projEyler\obj\Debug\projEyler.exe
+C:\Users\a.stanevich\source\repos\projEyler\projEyler\obj\Debug\projEyler.pdb
