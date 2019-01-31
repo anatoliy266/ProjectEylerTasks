@@ -1,0 +1,7 @@
+C:\Users\a.stanevich\source\repos\projEyler\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.exe
+C:\Users\a.stanevich\source\repos\projEyler\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.pdb
+C:\Users\a.stanevich\source\repos\projEyler\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.csprojAssemblyReference.cache
+C:\Users\a.stanevich\source\repos\projEyler\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.exe
+C:\Users\a.stanevich\source\repos\projEyler\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.pdb

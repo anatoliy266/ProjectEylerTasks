@@ -1,0 +1,7 @@
+C:\Users\a.stanevich\source\repos\projEyler\HighlyDivisibleTriangularNumber\bin\Debug\HighlyDivisibleTriangularNumber.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\HighlyDivisibleTriangularNumber\bin\Debug\HighlyDivisibleTriangularNumber.exe
+C:\Users\a.stanevich\source\repos\projEyler\HighlyDivisibleTriangularNumber\bin\Debug\HighlyDivisibleTriangularNumber.pdb
+C:\Users\a.stanevich\source\repos\projEyler\HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.exe
+C:\Users\a.stanevich\source\repos\projEyler\HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.pdb
+C:\Users\a.stanevich\source\repos\projEyler\HighlyDivisibleTriangularNumber\obj\Debug\HighlyDivisibleTriangularNumber.csprojAssemblyReference.cache

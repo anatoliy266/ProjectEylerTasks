@@ -1,0 +1,7 @@
+C:\Users\a.stanevich\source\repos\projEyler\LargeSum\bin\Debug\LargeSum.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\LargeSum\bin\Debug\LargeSum.exe
+C:\Users\a.stanevich\source\repos\projEyler\LargeSum\bin\Debug\LargeSum.pdb
+C:\Users\a.stanevich\source\repos\projEyler\LargeSum\obj\Debug\LargeSum.csprojAssemblyReference.cache
+C:\Users\a.stanevich\source\repos\projEyler\LargeSum\obj\Debug\LargeSum.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\LargeSum\obj\Debug\LargeSum.exe
+C:\Users\a.stanevich\source\repos\projEyler\LargeSum\obj\Debug\LargeSum.pdb

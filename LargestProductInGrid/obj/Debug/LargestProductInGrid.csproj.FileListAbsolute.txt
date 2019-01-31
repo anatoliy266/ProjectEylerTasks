@@ -1,0 +1,7 @@
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInGrid\bin\Debug\LargestProductInGrid.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInGrid\bin\Debug\LargestProductInGrid.exe
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInGrid\bin\Debug\LargestProductInGrid.pdb
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInGrid\obj\Debug\LargestProductInGrid.csprojAssemblyReference.cache
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInGrid\obj\Debug\LargestProductInGrid.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInGrid\obj\Debug\LargestProductInGrid.exe
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInGrid\obj\Debug\LargestProductInGrid.pdb

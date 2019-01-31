@@ -1,0 +1,7 @@
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInSeries\bin\Debug\LargestProductInSeries.exe.config
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInSeries\bin\Debug\LargestProductInSeries.exe
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInSeries\bin\Debug\LargestProductInSeries.pdb
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInSeries\obj\Debug\LargestProductInSeries.csprojAssemblyReference.cache
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInSeries\obj\Debug\LargestProductInSeries.csproj.CoreCompileInputs.cache
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInSeries\obj\Debug\LargestProductInSeries.exe
+C:\Users\a.stanevich\source\repos\projEyler\LargestProductInSeries\obj\Debug\LargestProductInSeries.pdb
